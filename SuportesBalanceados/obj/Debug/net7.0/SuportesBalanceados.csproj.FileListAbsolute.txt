@@ -1,0 +1,15 @@
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.exe
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.deps.json
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.runtimeconfig.json
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.dll
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\bin\Debug\net7.0\SuportesBalanceados.pdb
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.csproj.AssemblyReference.cache
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.AssemblyInfoInputs.cache
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.AssemblyInfo.cs
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.csproj.CoreCompileInputs.cache
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.dll
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\refint\SuportesBalanceados.dll
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.pdb
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\SuportesBalanceados.genruntimeconfig.cache
+D:\Workspace\SuportesBalanceados\SuportesBalanceados\obj\Debug\net7.0\ref\SuportesBalanceados.dll
